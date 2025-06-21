@@ -47,7 +47,7 @@ A full-featured social media web app built using the **MERN stack (MongoDB, Expr
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repo
+**### 1. Clone the repo**
 
 ```bash
 git clone https://github.com/yourusername/social-sphere.git
